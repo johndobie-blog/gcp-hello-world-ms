@@ -65,7 +65,8 @@
 				<artifactId>appengine-maven-plugin</artifactId>
 				<version>2.2.0</version>
 				<configuration>
-					<projectId>GCLOUD_CONFIG</projectId>
+					<projectId>gcp-hello-world-ms</projectId>
+					<version>GCLOUD_CONFIG</version>
 				</configuration>
 			</plugin>
 		</plugins>
