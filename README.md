@@ -14,7 +14,7 @@ mvn spring-boot:run
 http://localhost:8080/hello-world
 
 ```text
-> curl http://localhost:9090/hello-world
+> curl http://localhost:8080/hello-world
 Hello, World!
 ```
 
