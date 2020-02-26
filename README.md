@@ -2,7 +2,8 @@
 A simple spring boot example with a rest endpoint that returns "Hello, World!"
 
 ### Build and run the application
-```text
+
+```bash
 # build
 mvn clean install
 
